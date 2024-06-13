@@ -1,9 +1,10 @@
 ## Hi there 👋 I'm Shreya [![](https://visitcount.itsvg.in/api?id=shreyabhuwania&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
 - 🔭 I’m currently working on **Web Development**.
 - 👯 I’m looking to collaborate on **Hackathons and new Projects**.
-- 💬 Ask me about **Technology and Personal Development**.
+- 💬 Ask me about **Java and Personal Development**.
 - 📫 How to reach me: **shreyabhuwania03@gmail.com**
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: *I'm great at giving life advice because I love diving into human philosophy and psychology!*
@@ -23,8 +24,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shreyabhuwania&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
