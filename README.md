@@ -2,12 +2,12 @@
 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
-- 🔭 I’m currently working on **Web Development**.
+- 🔭 I’m currently working on **Product Development**.
 - 👯 I’m looking to collaborate on **Hackathons and new Projects**.
-- 💬 Ask me about **Java and Personal Development**.
+- 💬 Ask me about **Java, Personal Development and buisness**.
 - 📫 How to reach me: **shreyabhuwania03@gmail.com**
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: *I'm great at giving life advice because I love diving into human philosophy and psychology!*
+- ⚡ Fun fact: *I'm great at giving life advice when it comes to growth because I love diving into human philosophy and psychology!*
 
 
 
