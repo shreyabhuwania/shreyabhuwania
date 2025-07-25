@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
-- 🔭 I’m currently working on **Product Development**.
+- 🔭 I’m currently working on **Product Analysis**.
 - 👯 I’m looking to collaborate on **New Opportunities and new Projects**.
 - 💬 Ask me about **Business, Personal Development and Java**.
 - 📫 How to reach me: **shreyabhuwania03@gmail.com**
