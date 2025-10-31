@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning **Strategy and Business Development**.
-- 🔭 I’m currently working as ** Management Trainee (Engineer turned Business person**.
+- 🔭 I’m currently working as **Management Trainee (Engineer turned Business person)**.
 - 👯 I’m looking to collaborate on **New Opportunities and new Projects**.
 - 💬 Ask me about **Business, Personal Development and Java**.
 - 📫 How to reach me: **shreyabhuwania03@gmail.com**
