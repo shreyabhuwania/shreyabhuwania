@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Shreya [![](https://visitcount.itsvg.in/api?id=shreyabhuwania&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**.
-- 🔭 I’m currently working on **Product Analysis**.
+- 🌱 I’m currently learning **Strategy and Business Development**.
+- 🔭 I’m currently working as ** Management Trainee (Engineer turned Business person**.
 - 👯 I’m looking to collaborate on **New Opportunities and new Projects**.
 - 💬 Ask me about **Business, Personal Development and Java**.
 - 📫 How to reach me: **shreyabhuwania03@gmail.com**
